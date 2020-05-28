@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://shishirccr.github.io/sitemap.xml
+Host: https://shishirccr.github.io
